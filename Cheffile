@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+#^syntax detection
+
+site 'http://community.opscode.com/api/v1'
+
+cookbook 'build-essential'
+cookbook 'git'
+cookbook 'mercurial'
+cookbook 'emacs'
+cookbook 'vim'
+cookbook 'nano'
+cookbook 'postgresql'
+cookbook 'database'
+cookbook 'redis', :git => 'https://github.com/CXInc/chef-redis.git'

@@ -1,0 +1,36 @@
+{
+  "name": "nano",
+  "description": "Installs nano",
+  "long_description": "Description\n===========\n\nInstalls nano.\n\nRequirements\n============\n\n## Platform:\n\n* Ubuntu/Debian\n* Red Hat/CentOS/Fedora/Scientific\n* ArchLinux\n\nAttributes\n==========\n\nNone.\n\nUsage\n=====\n\nPut recipe[nano] in a run list, or include_recipe 'nano' to ensure that nano is installed on your systems.\n\nLicense and Author\n==================\n\nAuthor:: Joseph Anthony Pasquale Holsten <joseph@josephholsten.com>\n\nCopyright 2012, Joseph Anthony Pasquale Holsten\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n",
+  "maintainer": "Joseph Anthony Pasquale Holsten",
+  "maintainer_email": "joseph@josephholsten.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "debian": ">= 0.0.0",
+    "ubuntu": ">= 0.0.0",
+    "arch": ">= 0.0.0",
+    "redhat": ">= 0.0.0",
+    "centos": ">= 0.0.0",
+    "fedora": ">= 0.0.0",
+    "scientific": ">= 0.0.0"
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "1.0.0"
+}
